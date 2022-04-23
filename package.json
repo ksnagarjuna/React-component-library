@@ -1,5 +1,5 @@
 {
-  "name": "React-component-library",
+  "name": "template-eact-component-library",
   "version": "0.0.1",
   "description": " A react component library",
   "scripts": {
@@ -23,5 +23,4 @@
     "dist"
   ],
   "types": "dist/index.d.ts"
-  
 }
