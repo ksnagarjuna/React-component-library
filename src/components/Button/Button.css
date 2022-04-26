@@ -5,4 +5,5 @@ button {
     border-radius: 5px;
     padding: 8px;
     color: white;
+    cursor: pointer;
 }
